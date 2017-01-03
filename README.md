@@ -30,3 +30,8 @@
 
 ### OS
 * [xv6 slides](http://www.cse.iitm.ac.in/~chester/courses/16o_os/syllabus.html)
+
+### Storage
+* [LFCS Linux Storage Management video](http://www.laicar.com/Home/Topic/4852)
+* [Linux Storage](http://linux-training.be/linuxsto.pdf)
+* [运维简洁实用手册](https://github.com/liquanzhou/ops_doc)
